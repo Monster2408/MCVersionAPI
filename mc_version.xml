@@ -1,3058 +1,3468 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root>
+    <version version="Java Edition 25w04a">
+        <protocol>0x400000E7</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_25w04a</link>
+    </version>
+    <version version="Java Edition 25w03a">
+        <protocol>0x400000E6</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_25w03a</link>
+    </version>
+    <version version="Java Edition 25w02a">
+        <protocol>0x400000E5</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_25w02a</link>
+    </version>
+    <version version="Java Edition 1.21.4">
+        <protocol>769</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4</link>
+    </version>
+    <version version="Java Edition 1.21.4 Release Candidate 3">
+        <protocol>0x400000E4</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Release_Candidate_3</link>
+    </version>
+    <version version="Java Edition 1.21.4 Release Candidate 2">
+        <protocol>0x400000E3</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Release_Candidate_2</link>
+    </version>
+    <version version="Java Edition 1.21.4 Release Candidate 1">
+        <protocol>0x400000E2</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.21.4 Pre-Release 3">
+        <protocol>0x400000E1</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Pre-Release_3</link>
+    </version>
+    <version version="Java Edition 1.21.4 Pre-Release 2">
+        <protocol>0x400000E0</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Pre-Release_2</link>
+    </version>
+    <version version="Java Edition 1.21.4 Pre-Release 1">
+        <protocol>0x400000DF</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.4_Pre-Release_1</link>
+    </version>
+    <version version="Java Edition 24w46a">
+        <protocol>0x400000DE</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w46a</link>
+    </version>
+    <version version="Java Edition 24w45a">
+        <protocol>0x400000DD</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w45a</link>
+    </version>
+    <version version="Java Edition 24w44a">
+        <protocol>0x400000DC</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w44a</link>
+    </version>
+    <version version="Java Edition 1.21.3">
+        <protocol>768</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.3</link>
+    </version>
+    <version version="Java Edition 1.21.2">
+        <protocol>768</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2</link>
+    </version>
+    <version version="Java Edition 1.21.2 Release Candidate 2">
+        <protocol>0x400000DB</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Release_Candidate_2</link>
+    </version>
+    <version version="Java Edition 1.21.2 Release Candidate 1">
+        <protocol>0x400000DA</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.21.2 Pre-Release 5">
+        <protocol>0x400000D9</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Pre-Release_5</link>
+    </version>
+    <version version="Java Edition 1.21.2 Pre-Release 4">
+        <protocol>0x400000D8</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Pre-Release_4</link>
+    </version>
+    <version version="Java Edition 1.21.2 Pre-Release 3">
+        <protocol>0x400000D7</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Pre-Release_3</link>
+    </version>
+    <version version="Java Edition 1.21.2 Pre-Release 2">
+        <protocol>0x400000D6</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Pre-Release_2</link>
+    </version>
+    <version version="Java Edition 1.21.2 Pre-Release 1">
+        <protocol>0x400000D5</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.2_Pre-Release_1</link>
+    </version>
+    <version version="Java Edition 24w40a">
+        <protocol>0x400000D4</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w40a</link>
+    </version>
+    <version version="Java Edition 24w39a">
+        <protocol>0x400000D3</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w39a</link>
+    </version>
+    <version version="Java Edition 24w38a">
+        <protocol>0x400000D2</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w38a</link>
+    </version>
+    <version version="Java Edition 24w37a">
+        <protocol>0x400000D1</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w37a</link>
+    </version>
+    <version version="Java Edition 24w36a">
+        <protocol>0x400000D0</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w36a</link>
+    </version>
+    <version version="Java Edition 24w35a">
+        <protocol>0x400000CF</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w35a</link>
+    </version>
+    <version version="Java Edition 24w34a">
+        <protocol>0x400000CE</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w34a</link>
+    </version>
+    <version version="Java Edition 24w33a">
+        <protocol>0x400000CD</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w33a</link>
+    </version>
+    <version version="Java Edition 1.21.1">
+        <protocol>767</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.1</link>
+    </version>
+    <version version="Java Edition 1.21.1 Release Candidate 1">
+        <protocol>0x400000CC</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21.1_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.21">
+        <protocol>767</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21</link>
+    </version>
+    <version version="Java Edition 1.21 Release Candidate 1">
+        <protocol>0x400000CB</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.21 Pre-Release 4">
+        <protocol>0x400000CA</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21_Pre-Release_4</link>
+    </version>
+    <version version="Java Edition 1.21 Pre-Release 3">
+        <protocol>0x400000C9</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21_Pre-Release_3</link>
+    </version>
+    <version version="Java Edition 1.21 Pre-Release 2">
+        <protocol>0x400000C8</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21_Pre-Release_2</link>
+    </version>
+    <version version="Java Edition 1.21 Pre-Release 1">
+        <protocol>0x400000C7</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.21_Pre-Release_1</link>
+    </version>
+    <version version="Java Edition 24w21b">
+        <protocol>0x400000C6</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w21b</link>
+    </version>
+    <version version="Java Edition 24w21a">
+        <protocol>0x400000C5</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w21a</link>
+    </version>
+    <version version="Java Edition 24w20a">
+        <protocol>0x400000C4</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w20a</link>
+    </version>
+    <version version="Java Edition 24w19b">
+        <protocol>0x400000C3</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w19b</link>
+    </version>
+    <version version="Java Edition 24w19a">
+        <protocol>0x400000C2</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w19a</link>
+    </version>
+    <version version="Java Edition 24w18a">
+        <protocol>0x400000C1</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w18a</link>
+    </version>
+    <version version="Java Edition 1.20.6">
+        <protocol>766</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.6</link>
+    </version>
+    <version version="Java Edition 1.20.6 Release Candidate 1">
+        <protocol>0x400000C0</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.6_Release_Candidate_1</link>
+    </version>
     <version version="Java Edition 1.20.5">
         <protocol>766</protocol>
-        <data_version>3837</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20.5</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5</link>
+    </version>
+    <version version="Java Edition 1.20.5 Release Candidate 3">
+        <protocol>0x400000BF</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Release_Candidate_3</link>
+    </version>
+    <version version="Java Edition 1.20.5 Release Candidate 2">
+        <protocol>0x400000BE</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Release_Candidate_2</link>
+    </version>
+    <version version="Java Edition 1.20.5 Release Candidate 1">
+        <protocol>0x400000BD</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.20.5 Pre-Release 4">
+        <protocol>0x400000BC</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Pre-Release_4</link>
+    </version>
+    <version version="Java Edition 1.20.5 Pre-Release 3">
+        <protocol>0x400000BB</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Pre-Release_3</link>
+    </version>
+    <version version="Java Edition 1.20.5 Pre-Release 2">
+        <protocol>0x400000BA</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Pre-Release_2</link>
+    </version>
+    <version version="Java Edition 1.20.5 Pre-Release 1">
+        <protocol>0x400000B9</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.5_Pre-Release_1</link>
+    </version>
+    <version version="Java Edition 24w14a">
+        <protocol>0x400000B8</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w14a</link>
+    </version>
+    <version version="Java Edition 24w13a">
+        <protocol>0x400000B6</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w13a</link>
+    </version>
+    <version version="Java Edition 24w12a">
+        <protocol>0x400000B5</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w12a</link>
+    </version>
+    <version version="Java Edition 24w11a">
+        <protocol>0x400000B4</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w11a</link>
+    </version>
+    <version version="Java Edition 24w10a">
+        <protocol>0x400000B3</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w10a</link>
+    </version>
+    <version version="Java Edition 24w09a">
+        <protocol>0x400000B2</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w09a</link>
+    </version>
+    <version version="Java Edition 24w07a">
+        <protocol>0x400000B1</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w07a</link>
+    </version>
+    <version version="Java Edition 24w06a">
+        <protocol>0x400000B0</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w06a</link>
+    </version>
+    <version version="Java Edition 24w05b">
+        <protocol>0x400000AF</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w05b</link>
+    </version>
+    <version version="Java Edition 24w05a">
+        <protocol>0x400000AD</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w05a</link>
+    </version>
+    <version version="Java Edition 24w04a">
+        <protocol>0x400000AD</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w04a</link>
+    </version>
+    <version version="Java Edition 24w03b">
+        <protocol>0x400000AC</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w03b</link>
+    </version>
+    <version version="Java Edition 24w03a">
+        <protocol>0x400000AB</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_24w03a</link>
+    </version>
+    <version version="Java Edition 23w51b">
+        <protocol>0x400000AA</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w51b</link>
+    </version>
+    <version version="Java Edition 23w51a">
+        <protocol>0x400000A9</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w51a</link>
     </version>
     <version version="Java Edition 1.20.4">
         <protocol>765</protocol>
-        <data_version>3700</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20.4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.4</link>
+    </version>
+    <version version="Java Edition 1.20.4 Release Candidate 1">
+        <protocol>0x400000A9</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.4_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.20.3">
-        <protocol>3698</protocol>
-        <data_version>3698</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20.3</link>
+        <protocol>765</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3</link>
+    </version>
+    <version version="Java Edition 1.20.3 Release Candidate 1">
+        <protocol>0x400000A8</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3_Release_Candidate_1</link>
+    </version>
+    <version version="Java Edition 1.20.3 Pre-Release 4">
+        <protocol>0x400000A7</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3_Pre-Release_4</link>
+    </version>
+    <version version="Java Edition 1.20.3 Pre-Release 3">
+        <protocol>0x400000A6</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3_Pre-Release_3</link>
+    </version>
+    <version version="Java Edition 1.20.3 Pre-Release 2">
+        <protocol>0x400000A5</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3_Pre-Release_2</link>
+    </version>
+    <version version="Java Edition 1.20.3 Pre-Release 1">
+        <protocol>0x400000A4</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.3_Pre-Release_1</link>
+    </version>
+    <version version="Java Edition 23w46a">
+        <protocol>0x400000A3</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w46a</link>
+    </version>
+    <version version="Java Edition 23w45a">
+        <protocol>0x400000A2</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w45a</link>
+    </version>
+    <version version="Java Edition 23w44a">
+        <protocol>0x400000A1</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w44a</link>
+    </version>
+    <version version="Java Edition 23w43b">
+        <protocol>0x400000A0</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w43b</link>
+    </version>
+    <version version="Java Edition 23w43a">
+        <protocol>0x4000009F</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w43a</link>
+    </version>
+    <version version="Java Edition 23w42a">
+        <protocol>0x4000009D</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w42a</link>
+    </version>
+    <version version="Java Edition 23w41a">
+        <protocol>0x4000009C</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w41a</link>
+    </version>
+    <version version="Java Edition 23w40a">
+        <protocol>0x4000009A</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_23w40a</link>
     </version>
     <version version="Java Edition 1.20.2">
         <protocol>764</protocol>
-        <data_version>3578</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2</link>
     </version>
     <version version="Java Edition 1.20.2 Release Candidate 2">
         <protocol>0x40000099</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.20.2 Release Candidate 1">
         <protocol>0x40000098</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.20.2 Pre-Release 4">
         <protocol>0x40000097</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Pre-Release_4</link>
     </version>
     <version version="Java Edition 1.20.2 Pre-Release 3">
         <protocol>0x40000096</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Pre-Release_3</link>
     </version>
     <version version="Java Edition 1.20.2 Pre-release 2">
         <protocol>0x40000095</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.20.2 Pre-release 1">
         <protocol>0x40000094</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.2_Pre-release_1</link>
     </version>
     <version version="Java Edition 23w35a">
         <protocol>0x40000093</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w35a</link>
     </version>
     <version version="Java Edition 23w33a">
         <protocol>0x40000092</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w33a</link>
     </version>
     <version version="Java Edition 23w32a">
         <protocol>0x40000091</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w32a</link>
     </version>
     <version version="Java Edition 23w31a">
         <protocol>0x40000090</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w31a</link>
     </version>
     <version version="Java Edition 1.20.1">
         <protocol>763</protocol>
-        <data_version>3465</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.1</link>
     </version>
     <version version="Java Edition 1.20.1 Release Candidate 1">
         <protocol>0x4000008E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20.1_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.20">
         <protocol>763</protocol>
-        <data_version>3463</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.20</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20</link>
     </version>
     <version version="Java Edition 1.20 Release Candidate 1">
         <protocol>0x4000008D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 7">
         <protocol>0x4000008C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_7</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 6">
         <protocol>0x4000008B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_6</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 5">
         <protocol>0x4000008A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 4">
         <protocol>0x40000089</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 3">
         <protocol>0x40000088</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 2">
         <protocol>0x40000087</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.20 Pre-release 1">
         <protocol>0x40000086</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.20_Pre-release_1</link>
     </version>
     <version version="Java Edition 23w18a">
         <protocol>0x40000085</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w18a</link>
     </version>
     <version version="Java Edition 23w17a">
         <protocol>0x40000084</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w17a</link>
     </version>
     <version version="Java Edition 23w16a">
         <protocol>0x40000083</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w16a</link>
     </version>
     <version version="Java Edition 23w14a">
         <protocol>0x40000082</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w14a</link>
     </version>
     <version version="Java Edition 23w13a">
         <protocol>0x40000080</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w13a</link>
     </version>
     <version version="Java Edition 23w12a">
         <protocol>0x4000007F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w12a</link>
     </version>
     <version version="Java Edition 1.19.4">
         <protocol>762</protocol>
-        <data_version>3337</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.19.4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4</link>
     </version>
     <version version="Java Edition 1.19.4 Release Candidate 3">
         <protocol>0x4000007E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Release_Candidate_3</link>
     </version>
     <version version="Java Edition 1.19.4 Release Candidate 2">
         <protocol>0x4000007D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.19.4 Release Candidate 1">
         <protocol>0x4000007C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.19.4 Pre-release 4">
         <protocol>0x4000007B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.19.4 Pre-release 3">
         <protocol>0x4000007A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.19.4 Pre-release 2">
         <protocol>0x40000079</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.19.4 Pre-release 1">
         <protocol>0x40000078</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_1</link>
     </version>
     <version version="Java Edition 23w07a">
         <protocol>0x40000077</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w07a</link>
     </version>
     <version version="Java Edition 23w06a">
         <protocol>0x40000076</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w06a</link>
     </version>
     <version version="Java Edition 23w05a">
         <protocol>0x40000075</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w05a</link>
     </version>
     <version version="Java Edition 23w04a">
         <protocol>0x40000074</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w04a</link>
     </version>
     <version version="Java Edition 23w03a">
         <protocol>0x40000073</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_23w03a</link>
     </version>
     <version version="Java Edition 1.19.3">
         <protocol>761</protocol>
-        <data_version>3218</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.19.3</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3</link>
     </version>
     <version version="Java Edition 1.19.3 Release Candidate 3">
         <protocol>0x40000072</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Release_Candidate_3</link>
     </version>
     <version version="Java Edition 1.19.3 Release Candidate 2">
         <protocol>0x40000071</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.19.3 Release Candidate 1">
         <protocol>0x40000070</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.19.3 Pre-release 3">
         <protocol>0x4000006F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.19.3 Pre-release 2">
         <protocol>0x4000006E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.19.3 Pre-release 1">
         <protocol>0x4000006D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.3_Pre-release_1</link>
     </version>
     <version version="Java Edition 22w46a">
         <protocol>0x4000006C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w46a</link>
     </version>
     <version version="Java Edition 22w45a">
         <protocol>0x4000006B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w45a</link>
     </version>
     <version version="Java Edition 22w44a">
         <protocol>0x4000006A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w44a</link>
     </version>
     <version version="Java Edition 22w43a">
         <protocol>0x40000069</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w43a</link>
     </version>
     <version version="Java Edition 22w42a">
         <protocol>0x40000068</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w42a</link>
     </version>
     <version version="Java Edition 1.19.2">
         <protocol>760</protocol>
-        <data_version>3120</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.19.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.2</link>
     </version>
     <version version="Java Edition 1.19.2 Release Candidate 2">
         <protocol>0x40000067</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.2_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.19.2 Release Candidate 1">
         <protocol>0x40000066</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.2_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.19.1">
         <protocol>760</protocol>
-        <data_version>3117</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.19.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1</link>
     </version>
     <version version="Java Edition 1.19.1 Release Candidate 3">
         <protocol>0x40000065</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Release_Candidate_3</link>
     </version>
     <version version="Java Edition 1.19.1 Release Candidate 2">
         <protocol>0x40000064</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 6">
         <protocol>0x40000063</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_6</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 5">
         <protocol>0x40000062</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 4">
         <protocol>0x40000061</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 3">
         <protocol>0x40000060</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 2">
         <protocol>0x4000005F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.19.1 Release Candidate 1">
         <protocol>0x4000005E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.19.1 Pre-release 1">
         <protocol>0x4000005D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19.1_Pre-release_1</link>
     </version>
     <version version="Java Edition 22w24a">
         <protocol>0x4000005C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w24a</link>
     </version>
     <version version="Java Edition 1.19">
         <protocol>759</protocol>
-        <data_version>3105</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.19</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19</link>
     </version>
     <version version="Java Edition 1.19 Release Candidate 2">
         <protocol>0x4000005B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.19 Release Candidate 1">
         <protocol>0x4000005A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.19 Pre-release 5">
         <protocol>0x40000059</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.19 Pre-release 4">
         <protocol>0x40000058</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.19 Pre-release 3">
         <protocol>0x40000057</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.19 Pre-release 2">
         <protocol>0x40000056</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.19 Pre-release 1">
         <protocol>0x40000055</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.19_Pre-release_1</link>
     </version>
     <version version="Java Edition 22w19a">
         <protocol>0x40000054</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w19a</link>
     </version>
     <version version="Java Edition 22w18a">
         <protocol>0x40000053</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w18a</link>
     </version>
     <version version="Java Edition 22w17a">
         <protocol>0x40000052</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w17a</link>
     </version>
     <version version="Java Edition 22w16b">
         <protocol>0x40000051</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w16b</link>
     </version>
     <version version="Java Edition 22w16a">
         <protocol>0x40000050</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w16a</link>
     </version>
     <version version="Java Edition 22w15a">
         <protocol>0x4000004F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w15a</link>
     </version>
     <version version="Java Edition 22w14a">
         <protocol>0x4000004E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w14a</link>
     </version>
     <version version="Java Edition 22w13a">
         <protocol>0x4000004C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w13a</link>
     </version>
     <version version="Java Edition 22w12a">
         <protocol>0x4000004B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w12a</link>
     </version>
     <version version="Java Edition 22w11a">
         <protocol>0x4000004A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w11a</link>
     </version>
     <version version="Java Edition Deep Dark Experimental Snapshot 1">
         <protocol>0x40000045</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_Deep_Dark_Experimental_Snapshot_1</link>
     </version>
     <version version="Java Edition 1.18.2">
         <protocol>758</protocol>
-        <data_version>2975</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.18.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.2</link>
     </version>
     <version version="Java Edition 1.18.2 Release Candidate 1">
         <protocol>0x40000049</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.2_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.18.2 Pre-release 3">
         <protocol>0x40000048</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.2_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.18.2 Pre-release 2">
         <protocol>0x40000047</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.2_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.18.2 Pre-release 1">
         <protocol>0x40000046</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.2_Pre-release_1</link>
     </version>
     <version version="Java Edition 22w07a">
         <protocol>0x40000044</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w07a</link>
     </version>
     <version version="Java Edition 22w06a">
         <protocol>0x40000043</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w06a</link>
     </version>
     <version version="Java Edition 22w05a">
         <protocol>0x40000042</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w05a</link>
     </version>
     <version version="Java Edition 22w03a">
         <protocol>0x40000041</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_22w03a</link>
     </version>
     <version version="Java Edition 1.18.1">
         <protocol>757</protocol>
-        <data_version>2865</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.18.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.1</link>
     </version>
     <version version="Java Edition 1.18.1 Release Candidate 3">
         <protocol>0x40000040</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.1_Release_Candidate_3</link>
     </version>
     <version version="Java Edition 1.18.1 Release Candidate 2">
         <protocol>0x4000003F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.1_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.18.1 Release Candidate 1">
         <protocol>0x4000003E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.1_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.18.1 Pre-release 1">
         <protocol>0x4000003D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18.1_Pre-release_1</link>
     </version>
     <version version="Java Edition 1.18">
         <protocol>757</protocol>
-        <data_version>2860</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.18</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18</link>
     </version>
     <version version="Java Edition 1.18 Release Candidate 4">
         <protocol>0x4000003C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Release_Candidate_4</link>
     </version>
     <version version="Java Edition 1.18 Release Candidate 3">
         <protocol>0x4000003B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Release_Candidate_3</link>
     </version>
     <version version="Java Edition 1.18 Release Candidate 2">
         <protocol>0x4000003A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.18 Release Candidate 1">
         <protocol>0x40000039</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 8">
         <protocol>0x40000038</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_8</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 7">
         <protocol>0x40000037</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_7</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 6">
         <protocol>0x40000036</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_6</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 5">
         <protocol>0x40000035</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 4">
         <protocol>0x40000034</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 3">
         <protocol>0x40000033</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 2">
         <protocol>0x40000032</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.18 Pre-release 1">
         <protocol>0x40000031</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Pre-release_1</link>
     </version>
     <version version="Java Edition 21w44a">
         <protocol>0x40000030</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w44a</link>
     </version>
     <version version="Java Edition 21w43a">
         <protocol>0x4000002F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w43a</link>
     </version>
     <version version="Java Edition 21w42a">
         <protocol>0x4000002E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w42a</link>
     </version>
     <version version="Java Edition 21w41a">
         <protocol>0x4000002D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w41a</link>
     </version>
     <version version="Java Edition 21w40a">
         <protocol>0x4000002C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w40a</link>
     </version>
     <version version="Java Edition 21w39a">
         <protocol>0x4000002B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w39a</link>
     </version>
     <version version="Java Edition 21w38a">
         <protocol>0x4000002A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w38a</link>
     </version>
     <version version="Java Edition 21w37a">
         <protocol>0x40000029</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w37a</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 7">
         <protocol>0x4000002F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_7</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 6">
         <protocol>0x4000002E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_6</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 5">
         <protocol>0x4000002D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_5</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 4">
         <protocol>0x4000002C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_4</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 3">
         <protocol>0x4000002B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_3</link>
     </version>
     <version version="Java Edition 1.18 experimental snapshot 2">
         <protocol>0x4000002A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_experimental_snapshot_2</link>
     </version>
     <version version="Java Edition 1.18 Experimental Snapshot 1">
         <protocol>0x40000029</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.18_Experimental_Snapshot_1</link>
     </version>
     <version version="Java Edition 1.17.1">
         <protocol>756</protocol>
-        <data_version>2730</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.17.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1</link>
     </version>
     <version version="Java Edition 1.17.1 Release Candidate 2">
         <protocol>0x40000028</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.17.1 Release Candidate 1">
         <protocol>0x40000027</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.17.1 Pre-release 3">
         <protocol>0x40000026</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.17.1 Pre-release 2">
         <protocol>0x40000025</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.17.1 Pre-release 1">
         <protocol>0x40000024</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17.1_Pre-release_1</link>
     </version>
     <version version="Java Edition 1.17">
         <protocol>755</protocol>
-        <data_version>2724</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.17</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17</link>
     </version>
     <version version="Java Edition 1.17 Release Candidate 2">
         <protocol>0x40000023</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.17 Release Candidate 1">
         <protocol>0x40000022</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.17 Pre-release 5">
         <protocol>0x40000021</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.17 Pre-release 4">
         <protocol>0x40000020</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.17 Pre-release 3">
         <protocol>0x4000001F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.17 Pre-release 2">
         <protocol>0x4000001E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.17 Pre-release 1">
         <protocol>0x4000001D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.17_Pre-release_1</link>
     </version>
     <version version="Java Edition 21w20a">
         <protocol>0x4000001C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w20a</link>
     </version>
     <version version="Java Edition 21w19a">
         <protocol>0x4000001B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w19a</link>
     </version>
     <version version="Java Edition 21w18a">
         <protocol>0x4000001A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w18a</link>
     </version>
     <version version="Java Edition 21w17a">
         <protocol>0x40000019</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w17a</link>
     </version>
     <version version="Java Edition 21w16a">
         <protocol>0x40000017</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w16a</link>
     </version>
     <version version="Java Edition 21w15a">
         <protocol>0x40000016</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w15a</link>
     </version>
     <version version="Java Edition 21w14a">
         <protocol>0x40000015</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w14a</link>
     </version>
     <version version="Java Edition 21w13a">
         <protocol>0x40000014</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w13a</link>
     </version>
     <version version="Java Edition 21w11a">
         <protocol>0x40000013</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w11a</link>
     </version>
     <version version="Java Edition 21w10a">
         <protocol>0x40000012</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w10a</link>
     </version>
     <version version="Java Edition 21w08b">
         <protocol>0x40000011</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w08b</link>
     </version>
     <version version="Java Edition 21w08a">
         <protocol>0x40000010</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w08a</link>
     </version>
     <version version="Java Edition 21w07a">
         <protocol>0x4000000F</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w07a</link>
     </version>
     <version version="Java Edition 21w06a">
         <protocol>0x4000000E</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w06a</link>
     </version>
     <version version="Java Edition 21w05b">
         <protocol>0x4000000D</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w05b</link>
     </version>
     <version version="Java Edition 21w05a">
         <protocol>0x4000000C</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w05a</link>
     </version>
     <version version="Java Edition 21w03a">
         <protocol>0x4000000B</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_21w03a</link>
     </version>
     <version version="Java Edition 20w51a">
         <protocol>0x40000009</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w51a</link>
     </version>
     <version version="Java Edition 20w49a">
         <protocol>0x40000008</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w49a</link>
     </version>
     <version version="Java Edition 20w48a">
         <protocol>0x40000007</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w48a</link>
     </version>
     <version version="Java Edition 20w46a">
         <protocol>0x40000006</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w46a</link>
     </version>
     <version version="Java Edition 20w45a">
         <protocol>0x40000005</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w45a</link>
     </version>
     <version version="Java Edition Combat Test 8c">
         <protocol>803</protocol>
-        <data_version>2707</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_8c</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_8c</link>
     </version>
     <version version="Java Edition Combat Test 8b">
-        <protocol>2706</protocol>
-        <data_version>2706</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_8b</link>
+        <protocol>803</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_8b</link>
     </version>
     <version version="Java Edition Combat Test 8">
-        <protocol>2705</protocol>
-        <data_version>2705</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_8</link>
+        <protocol>803</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_8</link>
     </version>
     <version version="Java Edition Combat Test 7c">
         <protocol>802</protocol>
-        <data_version>2704</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_7c</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_7c</link>
     </version>
     <version version="Java Edition Combat Test 7b">
-        <protocol>2703</protocol>
-        <data_version>2703</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_7b</link>
+        <protocol>802</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_7b</link>
     </version>
     <version version="Java Edition Combat Test 7">
-        <protocol>2702</protocol>
-        <data_version>2702</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_7</link>
+        <protocol>802</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_7</link>
     </version>
     <version version="Java Edition Combat Test 6">
         <protocol>801</protocol>
-        <data_version>2701</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_6</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_6</link>
     </version>
     <version version="Java Edition 1.16.5">
         <protocol>754</protocol>
-        <data_version>2586</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16.5</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.5</link>
     </version>
     <version version="Java Edition 1.16.5 Release Candidate 1">
         <protocol>0x4000000A</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.5_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.16.4">
         <protocol>754</protocol>
-        <data_version>2584</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16.4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.4</link>
     </version>
     <version version="Java Edition 1.16.4 Release Candidate 1">
         <protocol>0x40000003</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.4_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.16.4 Pre-release 2">
         <protocol>0x40000002</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.4_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.16.4 Pre-release 1">
         <protocol>0x40000001</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.4_Pre-release_1</link>
     </version>
     <version version="Java Edition 1.16.3">
         <protocol>753</protocol>
-        <data_version>2580</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16.3</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.3</link>
     </version>
     <version version="Java Edition 1.16.3 Release Candidate 1">
         <protocol>752</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.3_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.16.2">
         <protocol>751</protocol>
-        <data_version>2578</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2</link>
     </version>
     <version version="Java Edition 1.16.2 Release Candidate 2">
         <protocol>750</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2_Release_Candidate_2</link>
     </version>
     <version version="Java Edition 1.16.2 Release Candidate 1">
         <protocol>749</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.16.2 Pre-release 3">
         <protocol>748</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.16.2 Pre-release 2">
         <protocol>746</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.16.2 Pre-release 1">
         <protocol>744</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.2_Pre-release_1</link>
     </version>
     <version version="Java Edition 20w30a">
         <protocol>742</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w30a</link>
     </version>
     <version version="Java Edition 20w29a">
         <protocol>741</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w29a</link>
     </version>
     <version version="Java Edition 20w28a">
         <protocol>740</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w28a</link>
     </version>
     <version version="Java Edition 20w27a">
         <protocol>738</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w27a</link>
     </version>
     <version version="Java Edition 1.16.1">
         <protocol>736</protocol>
-        <data_version>2567</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16.1</link>
     </version>
     <version version="Java Edition 1.16">
         <protocol>735</protocol>
-        <data_version>2566</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.16</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16</link>
     </version>
     <version version="Java Edition 1.16 Release Candidate 1">
         <protocol>734</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Release_Candidate_1</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 8">
         <protocol>733</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_8</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 7">
         <protocol>732</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_7</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 6">
         <protocol>730</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_6</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 5">
         <protocol>729</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 4">
         <protocol>727</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 3">
         <protocol>725</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 2">
         <protocol>722</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.16 Pre-release 1">
         <protocol>721</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.16_Pre-release_1</link>
     </version>
     <version version="Java Edition 20w22a">
         <protocol>719</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w22a</link>
     </version>
     <version version="Java Edition 20w21a">
         <protocol>718</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w21a</link>
     </version>
     <version version="Java Edition 20w20b">
         <protocol>717</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w20b</link>
     </version>
     <version version="Java Edition 20w20a">
         <protocol>716</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w20a</link>
     </version>
     <version version="Java Edition 20w19a">
         <protocol>715</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w19a</link>
     </version>
     <version version="Java Edition 20w18a">
         <protocol>714</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w18a</link>
     </version>
     <version version="Java Edition 20w17a">
         <protocol>713</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w17a</link>
     </version>
     <version version="Java Edition 20w16a">
         <protocol>712</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w16a</link>
     </version>
     <version version="Java Edition 20w15a">
         <protocol>711</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w15a</link>
     </version>
     <version version="Java Edition 20w14a">
         <protocol>710</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w14a</link>
     </version>
     <version version="Java Edition 20w13b">
         <protocol>709</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w13b</link>
     </version>
     <version version="Java Edition 20w13a">
         <protocol>708</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w13a</link>
     </version>
     <version version="Java Edition 20w12a">
         <protocol>707</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w12a</link>
     </version>
     <version version="Java Edition 20w11a">
         <protocol>706</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w11a</link>
     </version>
     <version version="Java Edition 20w10a">
         <protocol>705</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w10a</link>
     </version>
     <version version="Java Edition 20w09a">
         <protocol>704</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w09a</link>
     </version>
     <version version="Java Edition 20w08a">
         <protocol>703</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w08a</link>
     </version>
     <version version="Java Edition 20w07a">
         <protocol>702</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_20w07a</link>
     </version>
     <version version="Java Edition Snapshot 20w06a">
         <protocol>701</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_Snapshot_20w06a</link>
     </version>
     <version version="Java Edition Combat Test 5">
         <protocol>601</protocol>
-        <data_version>2321</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_5</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_5</link>
     </version>
     <version version="Java Edition Combat Test 4">
         <protocol>600</protocol>
-        <data_version>2320</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_4</link>
     </version>
     <version version="Java Edition 1.15.2">
         <protocol>578</protocol>
-        <data_version>2230</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.15.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15.2</link>
     </version>
     <version version="Java Edition 1.15.2 Pre-release 2">
         <protocol>577</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15.2_Pre-release_2</link>
     </version>
     <version version="Java Edition 1.15.2 Pre-Release 1">
         <protocol>576</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15.2_Pre-Release_1</link>
     </version>
     <version version="Java Edition 1.15.1">
         <protocol>575</protocol>
-        <data_version>2227</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.15.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15.1</link>
     </version>
     <version version="Java Edition 1.15.1 Pre-release 1">
         <protocol>574</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15.1_Pre-release_1</link>
     </version>
     <version version="Java Edition 1.15">
         <protocol>573</protocol>
-        <data_version>2225</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.15</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 7">
         <protocol>572</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_7</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 6">
         <protocol>571</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_6</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 5">
         <protocol>570</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_5</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 4">
         <protocol>569</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_4</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 3">
         <protocol>567</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_3</link>
     </version>
     <version version="Java Edition 1.15 Pre-Release 2">
         <protocol>566</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.15 Pre-release 1">
         <protocol>565</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.15_Pre-release_1</link>
     </version>
     <version version="Java Edition 19w46b">
         <protocol>564</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w46b</link>
     </version>
     <version version="Java Edition 19w46a">
         <protocol>563</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w46a</link>
     </version>
     <version version="Java Edition 19w45b">
         <protocol>562</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w45b</link>
     </version>
     <version version="Java Edition 19w45a">
         <protocol>561</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w45a</link>
     </version>
     <version version="Java Edition 19w44a">
         <protocol>560</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w44a</link>
     </version>
     <version version="Java Edition 19w42a">
         <protocol>559</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w42a</link>
     </version>
     <version version="Java Edition 19w41a">
         <protocol>558</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w41a</link>
     </version>
     <version version="Java Edition 19w40a">
         <protocol>557</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w40a</link>
     </version>
     <version version="Java Edition 19w39a">
         <protocol>556</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w39a</link>
     </version>
     <version version="Java Edition 19w38b">
         <protocol>555</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w38b</link>
     </version>
     <version version="Java Edition 19w38a">
         <protocol>554</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w38a</link>
     </version>
     <version version="Java Edition 19w37a">
         <protocol>553</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w37a</link>
     </version>
     <version version="Java Edition 19w36a">
         <protocol>552</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w36a</link>
     </version>
     <version version="Java Edition 19w35a">
         <protocol>551</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w35a</link>
     </version>
     <version version="Java Edition 19w34a">
         <protocol>550</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w34a</link>
     </version>
     <version version="Java Edition Combat Test 3">
         <protocol>502</protocol>
-        <data_version>2069</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_3</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_3</link>
     </version>
     <version version="Java Edition Combat Test 2">
         <protocol>501</protocol>
-        <data_version>2068</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_Combat_Test_2</link>
     </version>
     <version version="Java Edition 1.14.3 - Combat Test">
         <protocol>500</protocol>
-        <data_version>2067</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14.3_-_Combat_Test</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3_-_Combat_Test</link>
     </version>
     <version version="Java Edition 1.14.4">
         <protocol>498</protocol>
-        <data_version>1976</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14.4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 7">
         <protocol>497</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_7</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 6">
         <protocol>496</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_6</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 5">
         <protocol>495</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_5</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 4">
         <protocol>494</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_4</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 3">
         <protocol>493</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_3</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 2">
         <protocol>492</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.14.4 Pre-Release 1">
         <protocol>491</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.4_Pre-Release_1</link>
     </version>
     <version version="Java Edition 1.14.3">
         <protocol>490</protocol>
-        <data_version>1968</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14.3</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3</link>
     </version>
     <version version="Java Edition 1.14.3 Pre-Release 4">
         <protocol>489</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3_Pre-Release_4</link>
     </version>
     <version version="Java Edition 1.14.3 Pre-Release 3">
         <protocol>488</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3_Pre-Release_3</link>
     </version>
     <version version="Java Edition 1.14.3 Pre-Release 2">
         <protocol>487</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.14.3 Pre-Release 1">
         <protocol>486</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.3_Pre-Release_1</link>
     </version>
     <version version="Java Edition 1.14.2">
         <protocol>485</protocol>
-        <data_version>1963</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.2</link>
     </version>
     <version version="Java Edition 1.14.2 Pre-Release 4">
         <protocol>484</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.2_Pre-Release_4</link>
     </version>
     <version version="Java Edition 1.14.2 Pre-Release 3">
         <protocol>483</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.2_Pre-Release_3</link>
     </version>
     <version version="Java Edition 1.14.2 Pre-Release 2">
         <protocol>482</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.2_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.14.2 Pre-Release 1">
         <protocol>481</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.2_Pre-Release_1</link>
     </version>
     <version version="Java Edition 1.14.1">
         <protocol>480</protocol>
-        <data_version>1957</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.1</link>
     </version>
     <version version="Java Edition 1.14.1 Pre-Release 2">
         <protocol>479</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.1_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.14.1 Pre-Release 1">
         <protocol>478</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14.1_Pre-Release_1</link>
     </version>
     <version version="Java Edition 1.14">
         <protocol>477</protocol>
-        <data_version>1952</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.14</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14</link>
     </version>
     <version version="Java Edition 1.14 Pre-Release 5">
         <protocol>476</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_5</link>
     </version>
     <version version="Java Edition 1.14 Pre-Release 4">
         <protocol>475</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_4</link>
     </version>
     <version version="Java Edition 1.14 Pre-Release 3">
         <protocol>474</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_3</link>
     </version>
     <version version="Java Edition 1.14 Pre-Release 2">
         <protocol>473</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_2</link>
     </version>
     <version version="Java Edition 1.14 Pre-Release 1">
         <protocol>472</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.14_Pre-Release_1</link>
     </version>
     <version version="Java Edition 19w14b">
         <protocol>471</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w14b</link>
     </version>
     <version version="Java Edition 19w14a">
         <protocol>470</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w14a</link>
     </version>
     <version version="Java Edition 19w13b">
         <protocol>469</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w13b</link>
     </version>
     <version version="Java Edition 19w13a">
         <protocol>468</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w13a</link>
     </version>
     <version version="Java Edition 19w12b">
         <protocol>467</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w12b</link>
     </version>
     <version version="Java Edition 19w12a">
         <protocol>466</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w12a</link>
     </version>
     <version version="Java Edition 19w11b">
         <protocol>465</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w11b</link>
     </version>
     <version version="Java Edition 19w11a">
         <protocol>464</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w11a</link>
     </version>
     <version version="Java Edition 19w09a">
         <protocol>463</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w09a</link>
     </version>
     <version version="Java Edition 19w08b">
         <protocol>462</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w08b</link>
     </version>
     <version version="Java Edition 19w08a">
         <protocol>461</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w08a</link>
     </version>
     <version version="Java Edition 19w07a">
         <protocol>460</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w07a</link>
     </version>
     <version version="Java Edition 19w06a">
         <protocol>459</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w06a</link>
     </version>
     <version version="Java Edition 19w05a">
         <protocol>458</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w05a</link>
     </version>
     <version version="Java Edition 19w04b">
         <protocol>457</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w04b</link>
     </version>
     <version version="Java Edition 19w04a">
         <protocol>456</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w04a</link>
     </version>
     <version version="Java Edition 19w03c">
         <protocol>455</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w03c</link>
     </version>
     <version version="Java Edition 19w03b">
         <protocol>454</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w03b</link>
     </version>
     <version version="Java Edition 19w03a">
         <protocol>453</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w03a</link>
     </version>
     <version version="Java Edition 19w02a">
         <protocol>452</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_19w02a</link>
     </version>
     <version version="Java Edition 18w50a">
         <protocol>451</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w50a</link>
     </version>
     <version version="Java Edition 18w49a">
         <protocol>450</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w49a</link>
     </version>
     <version version="Java Edition 18w48b">
         <protocol>449</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w48b</link>
     </version>
     <version version="Java Edition 18w48a">
         <protocol>448</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w48a</link>
     </version>
     <version version="Java Edition 18w47b">
         <protocol>447</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w47b</link>
     </version>
     <version version="Java Edition 18w47a">
         <protocol>446</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w47a</link>
     </version>
     <version version="Java Edition 18w46a">
         <protocol>445</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w46a</link>
     </version>
     <version version="Java Edition 18w45a">
         <protocol>444</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w45a</link>
     </version>
     <version version="Java Edition 18w44a">
         <protocol>443</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w44a</link>
     </version>
     <version version="Java Edition 18w43c">
         <protocol>442</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w43c</link>
     </version>
     <version version="Java Edition 18w43b">
         <protocol>441</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w43b</link>
     </version>
     <version version="Java Edition 18w43a">
         <protocol>440</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w43a</link>
     </version>
     <version version="Java Edition 1.13.2">
         <protocol>404</protocol>
-        <data_version>1631</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.13.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.2</link>
     </version>
     <version version="Java Edition 1.13.2-pre2">
         <protocol>403</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.2-pre2</link>
     </version>
     <version version="Java Edition 1.13.2-pre1">
         <protocol>402</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.2-pre1</link>
     </version>
     <version version="Java Edition 1.13.1">
         <protocol>401</protocol>
-        <data_version>1628</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.13.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.1</link>
     </version>
     <version version="Java Edition 1.13.1-pre2">
         <protocol>400</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.1-pre2</link>
     </version>
     <version version="Java Edition 1.13.1-pre1">
         <protocol>399</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13.1-pre1</link>
     </version>
     <version version="Java Edition 18w33a">
         <protocol>398</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w33a</link>
     </version>
     <version version="Java Edition 18w32a">
         <protocol>397</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w32a</link>
     </version>
     <version version="Java Edition 18w31a">
         <protocol>396</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w31a</link>
     </version>
     <version version="Java Edition 18w30b">
         <protocol>395</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w30b</link>
     </version>
     <version version="Java Edition 18w30a">
         <protocol>394</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w30a</link>
     </version>
     <version version="Java Edition 1.13">
         <protocol>393</protocol>
-        <data_version>1519</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.13</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13</link>
     </version>
     <version version="Java Edition 1.13-pre10">
         <protocol>392</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre10</link>
     </version>
     <version version="Java Edition 1.13-pre9">
         <protocol>391</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre9</link>
     </version>
     <version version="Java Edition 1.13-pre8">
         <protocol>390</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre8</link>
     </version>
     <version version="Java Edition 1.13-pre7">
         <protocol>389</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre7</link>
     </version>
     <version version="Java Edition 1.13-pre6">
         <protocol>388</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre6</link>
     </version>
     <version version="Java Edition 1.13-pre5">
         <protocol>387</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre5</link>
     </version>
     <version version="Java Edition 1.13-pre4">
         <protocol>386</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre4</link>
     </version>
     <version version="Java Edition 1.13-pre3">
         <protocol>385</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre3</link>
     </version>
     <version version="Java Edition 1.13-pre2">
         <protocol>384</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre2</link>
     </version>
     <version version="Java Edition 1.13-pre1">
         <protocol>383</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.13-pre1</link>
     </version>
     <version version="Java Edition 18w22c">
         <protocol>382</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w22c</link>
     </version>
     <version version="Java Edition 18w22b">
         <protocol>381</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w22b</link>
     </version>
     <version version="Java Edition 18w22a">
         <protocol>380</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w22a</link>
     </version>
     <version version="Java Edition 18w21b">
         <protocol>379</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w21b</link>
     </version>
     <version version="Java Edition 18w21a">
         <protocol>378</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w21a</link>
     </version>
     <version version="Java Edition 18w20c">
         <protocol>377</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w20c</link>
     </version>
     <version version="Java Edition 18w20b">
         <protocol>376</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w20b</link>
     </version>
     <version version="Java Edition 18w20a">
         <protocol>375</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w20a</link>
     </version>
     <version version="Java Edition 18w19b">
         <protocol>374</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w19b</link>
     </version>
     <version version="Java Edition 18w19a">
         <protocol>373</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w19a</link>
     </version>
     <version version="Java Edition 18w16a">
         <protocol>372</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w16a</link>
     </version>
     <version version="Java Edition 18w15a">
         <protocol>371</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w15a</link>
     </version>
     <version version="Java Edition 18w14b">
         <protocol>370</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w14b</link>
     </version>
     <version version="Java Edition 18w14a">
         <protocol>369</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w14a</link>
     </version>
     <version version="Java Edition 18w11a">
         <protocol>368</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w11a</link>
     </version>
     <version version="Java Edition 18w10d">
         <protocol>367</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w10d</link>
     </version>
     <version version="Java Edition 18w10c">
         <protocol>366</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w10c</link>
     </version>
     <version version="Java Edition 18w10b">
         <protocol>365</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w10b</link>
     </version>
     <version version="Java Edition 18w10a">
         <protocol>364</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w10a</link>
     </version>
     <version version="Java Edition 18w09a">
         <protocol>363</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w09a</link>
     </version>
     <version version="Java Edition 18w08b">
         <protocol>362</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w08b</link>
     </version>
     <version version="Java Edition 18w08a">
         <protocol>361</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w08a</link>
     </version>
     <version version="Java Edition 18w07c">
         <protocol>360</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w07c</link>
     </version>
     <version version="Java Edition 18w07b">
         <protocol>359</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w07b</link>
     </version>
     <version version="Java Edition 18w07a">
         <protocol>358</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w07a</link>
     </version>
     <version version="Java Edition 18w06a">
         <protocol>357</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w06a</link>
     </version>
     <version version="Java Edition 18w05a">
         <protocol>356</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w05a</link>
     </version>
     <version version="Java Edition 18w03b">
         <protocol>355</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w03b</link>
     </version>
     <version version="Java Edition 18w03a">
         <protocol>354</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w03a</link>
     </version>
     <version version="Java Edition 18w02a">
         <protocol>353</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w02a</link>
     </version>
     <version version="Java Edition 18w01a">
         <protocol>352</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_18w01a</link>
     </version>
     <version version="Java Edition 17w50a">
         <protocol>351</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w50a</link>
     </version>
     <version version="Java Edition 17w49b">
         <protocol>350</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w49b</link>
     </version>
     <version version="Java Edition 17w49a">
         <protocol>349</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w49a</link>
     </version>
     <version version="Java Edition 17w48a">
         <protocol>348</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w48a</link>
     </version>
     <version version="Java Edition 17w47b">
         <protocol>347</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w47b</link>
     </version>
     <version version="Java Edition 17w47a">
         <protocol>346</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w47a</link>
     </version>
     <version version="Java Edition 17w46a">
         <protocol>345</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w46a</link>
     </version>
     <version version="Java Edition 17w45b">
         <protocol>344</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w45b</link>
     </version>
     <version version="Java Edition 17w45a">
         <protocol>343</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w45a</link>
     </version>
     <version version="Java Edition 17w43b">
         <protocol>342</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w43b</link>
     </version>
     <version version="Java Edition 17w43a">
         <protocol>341</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w43a</link>
     </version>
     <version version="Java Edition 1.12.2">
         <protocol>340</protocol>
-        <data_version>1343</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.12.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12.2</link>
     </version>
     <version version="Java Edition 1.12.2-pre2">
         <protocol>339</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12.2-pre2</link>
     </version>
     <version version="Java Edition 1.12.2-pre1">
-        <protocol>1341</protocol>
+        <protocol>339</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12.2-pre1</link>
     </version>
     <version version="Java Edition 1.12.1">
         <protocol>338</protocol>
-        <data_version>1241</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.12.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12.1</link>
     </version>
     <version version="Java Edition 1.12.1-pre1">
         <protocol>337</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12.1-pre1</link>
     </version>
     <version version="Java Edition 17w31a">
         <protocol>336</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w31a</link>
     </version>
     <version version="Java Edition 1.12">
         <protocol>335</protocol>
-        <data_version>1139</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.12</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12</link>
     </version>
     <version version="Java Edition 1.12-pre7">
         <protocol>334</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre7</link>
     </version>
     <version version="Java Edition 1.12-pre6">
         <protocol>333</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre6</link>
     </version>
     <version version="Java Edition 1.12-pre5">
         <protocol>332</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre5</link>
     </version>
     <version version="Java Edition 1.12-pre4">
         <protocol>331</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre4</link>
     </version>
     <version version="Java Edition 1.12-pre3">
         <protocol>330</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre3</link>
     </version>
     <version version="Java Edition 1.12-pre2">
         <protocol>329</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre2</link>
     </version>
     <version version="Java Edition 1.12-pre1">
         <protocol>328</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.12-pre1</link>
     </version>
     <version version="Java Edition 17w18b">
         <protocol>327</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w18b</link>
     </version>
     <version version="Java Edition 17w18a">
         <protocol>326</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w18a</link>
     </version>
     <version version="Java Edition 17w17b">
         <protocol>325</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w17b</link>
     </version>
     <version version="Java Edition 17w17a">
         <protocol>324</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w17a</link>
     </version>
     <version version="Java Edition 17w16b">
         <protocol>323</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w16b</link>
     </version>
     <version version="Java Edition 17w16a">
         <protocol>322</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w16a</link>
     </version>
     <version version="Java Edition 17w15a">
         <protocol>321</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w15a</link>
     </version>
     <version version="Java Edition 17w14a">
         <protocol>320</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w14a</link>
     </version>
     <version version="Java Edition 17w13b">
         <protocol>319</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w13b</link>
     </version>
     <version version="Java Edition 17w13a">
         <protocol>318</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w13a</link>
     </version>
     <version version="Java Edition 17w06a">
         <protocol>317</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_17w06a</link>
     </version>
     <version version="Java Edition 1.11.2">
         <protocol>316</protocol>
-        <data_version>922</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.11.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.11.2</link>
     </version>
     <version version="Java Edition 1.11.1">
-        <protocol>921</protocol>
-        <data_version>921</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.11.1</link>
+        <protocol>316</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.11.1</link>
     </version>
     <version version="Java Edition 16w50a">
-        <protocol>920</protocol>
+        <protocol>316</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w50a</link>
     </version>
     <version version="Java Edition 1.11">
         <protocol>315</protocol>
-        <data_version>819</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.11</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.11</link>
     </version>
     <version version="Java Edition 1.11-pre1">
         <protocol>314</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.11-pre1</link>
     </version>
     <version version="Java Edition 16w44a">
         <protocol>313</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w44a</link>
     </version>
     <version version="Java Edition 16w43a">
-        <protocol>816</protocol>
+        <protocol>313</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w43a</link>
     </version>
     <version version="Java Edition 16w42a">
         <protocol>312</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w42a</link>
     </version>
     <version version="Java Edition 16w41a">
         <protocol>311</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w41a</link>
     </version>
     <version version="Java Edition 16w40a">
         <protocol>310</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w40a</link>
     </version>
     <version version="Java Edition 16w39c">
         <protocol>309</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w39c</link>
     </version>
     <version version="Java Edition 16w39b">
         <protocol>308</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w39b</link>
     </version>
     <version version="Java Edition 16w39a">
         <protocol>307</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w39a</link>
     </version>
     <version version="Java Edition 16w38a">
         <protocol>306</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w38a</link>
     </version>
     <version version="Java Edition 16w36a">
         <protocol>305</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w36a</link>
     </version>
     <version version="Java Edition 16w35a">
         <protocol>304</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w35a</link>
     </version>
     <version version="Java Edition 16w33a">
         <protocol>303</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w33a</link>
     </version>
     <version version="Java Edition 16w32b">
         <protocol>302</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w32b</link>
     </version>
     <version version="Java Edition 16w32a">
         <protocol>301</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w32a</link>
     </version>
     <version version="Java Edition 1.10.2">
         <protocol>210</protocol>
-        <data_version>512</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.10.2</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.10.2</link>
     </version>
     <version version="Java Edition 1.10.1">
-        <protocol>511</protocol>
-        <data_version>511</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.10.1</link>
+        <protocol>210</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.10.1</link>
     </version>
     <version version="Java Edition 1.10">
-        <protocol>510</protocol>
-        <data_version>510</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.10</link>
+        <protocol>210</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.10</link>
     </version>
     <version version="Java Edition 1.10-pre2">
         <protocol>205</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.10-pre2</link>
     </version>
     <version version="Java Edition 1.10-pre1">
         <protocol>204</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.10-pre1</link>
     </version>
     <version version="Java Edition 16w21b">
         <protocol>203</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w21b</link>
     </version>
     <version version="Java Edition 16w21a">
         <protocol>202</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w21a</link>
     </version>
     <version version="Java Edition 16w20a">
         <protocol>201</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w20a</link>
     </version>
     <version version="Java Edition 1.9.4">
         <protocol>110</protocol>
-        <data_version>184</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.9.4</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.4</link>
     </version>
     <version version="Java Edition 1.9.3">
-        <protocol>183</protocol>
-        <data_version>183</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.9.3</link>
+        <protocol>110</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.3</link>
     </version>
     <version version="Java Edition 1.9.3-pre3">
-        <protocol>182</protocol>
+        <protocol>110</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.3-pre3</link>
     </version>
     <version version="Java Edition 1.9.3-pre2">
-        <protocol>181</protocol>
+        <protocol>110</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.3-pre2</link>
     </version>
     <version version="Java Edition 1.9.3-pre1">
         <protocol>109</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.3-pre1</link>
     </version>
     <version version="Java Edition 16w15b">
-        <protocol>179</protocol>
+        <protocol>109</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w15b</link>
     </version>
     <version version="Java Edition 16w15a">
-        <protocol>178</protocol>
+        <protocol>109</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w15a</link>
     </version>
     <version version="Java Edition 16w14a">
-        <protocol>177</protocol>
+        <protocol>109</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w14a</link>
     </version>
     <version version="Java Edition 1.9.2">
-        <protocol>176</protocol>
-        <data_version>176</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.9.2</link>
+        <protocol>109</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.2</link>
     </version>
     <version version="Java Edition 1.9.1">
         <protocol>108</protocol>
-        <data_version>175</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.9.1</link>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.1</link>
     </version>
     <version version="Java Edition 1.9.1-pre3">
-        <protocol>172</protocol>
+        <protocol>108</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.1-pre3</link>
     </version>
     <version version="Java Edition 1.9.1-pre2">
-        <protocol>171</protocol>
+        <protocol>108</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.1-pre2</link>
     </version>
     <version version="Java Edition 1.9.1-pre1">
         <protocol>107</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9.1-pre1</link>
     </version>
     <version version="Java Edition 1.9">
-        <protocol>169</protocol>
-        <data_version>169</data_version>
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.9</link>
+        <protocol>107</protocol>
+        <data_version />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9</link>
     </version>
     <version version="Java Edition 1.9-pre4">
         <protocol>106</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9-pre4</link>
     </version>
     <version version="Java Edition 1.9-pre3">
         <protocol>105</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9-pre3</link>
     </version>
     <version version="Java Edition 1.9-pre2">
         <protocol>104</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9-pre2</link>
     </version>
     <version version="Java Edition 1.9-pre1">
         <protocol>103</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.9-pre1</link>
     </version>
     <version version="Java Edition 16w07b">
         <protocol>102</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w07b</link>
     </version>
     <version version="Java Edition 16w07a">
         <protocol>101</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w07a</link>
     </version>
     <version version="Java Edition 16w06a">
         <protocol>100</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w06a</link>
     </version>
     <version version="Java Edition 16w05b">
         <protocol>99</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w05b</link>
     </version>
     <version version="Java Edition 16w05a">
         <protocol>98</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w05a</link>
     </version>
     <version version="Java Edition 16w04a">
         <protocol>97</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w04a</link>
     </version>
     <version version="Java Edition 16w03a">
         <protocol>96</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w03a</link>
     </version>
     <version version="Java Edition 16w02a">
         <protocol>95</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_16w02a</link>
     </version>
     <version version="Java Edition 15w51b">
         <protocol>94</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w51b</link>
     </version>
     <version version="Java Edition 15w51a">
         <protocol>93</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w51a</link>
     </version>
     <version version="Java Edition 15w50a">
         <protocol>92</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w50a</link>
     </version>
     <version version="Java Edition 15w49b">
         <protocol>91</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w49b</link>
     </version>
     <version version="Java Edition 15w49a">
         <protocol>90</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w49a</link>
     </version>
     <version version="Java Edition 15w47c">
         <protocol>89</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w47c</link>
     </version>
     <version version="Java Edition 15w47b">
         <protocol>88</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w47b</link>
     </version>
     <version version="Java Edition 15w47a">
         <protocol>87</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w47a</link>
     </version>
     <version version="Java Edition 15w46a">
         <protocol>86</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w46a</link>
     </version>
     <version version="Java Edition 15w45a">
         <protocol>85</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w45a</link>
     </version>
     <version version="Java Edition 15w44b">
         <protocol>84</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w44b</link>
     </version>
     <version version="Java Edition 15w44a">
         <protocol>83</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w44a</link>
     </version>
     <version version="Java Edition 15w43c">
         <protocol>82</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w43c</link>
     </version>
     <version version="Java Edition 15w43b">
         <protocol>81</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w43b</link>
     </version>
     <version version="Java Edition 15w43a">
         <protocol>80</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w43a</link>
     </version>
     <version version="Java Edition 15w42a">
         <protocol>79</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w42a</link>
     </version>
     <version version="Java Edition 15w41b">
         <protocol>78</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w41b</link>
     </version>
     <version version="Java Edition 15w41a">
         <protocol>77</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w41a</link>
     </version>
     <version version="Java Edition 15w40b">
         <protocol>76</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w40b</link>
     </version>
     <version version="Java Edition 15w40a">
         <protocol>75</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w40a</link>
     </version>
     <version version="Java Edition 15w39c">
         <protocol>74</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w39c</link>
     </version>
     <version version="Java Edition 15w39b">
-        <protocol>131</protocol>
+        <protocol>74</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w39b</link>
     </version>
     <version version="Java Edition 15w39a">
-        <protocol>130</protocol>
+        <protocol>74</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w39a</link>
     </version>
     <version version="Java Edition 15w38b">
         <protocol>73</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w38b</link>
     </version>
     <version version="Java Edition 15w38a">
         <protocol>72</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w38a</link>
     </version>
     <version version="Java Edition 15w37a">
         <protocol>71</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w37a</link>
     </version>
     <version version="Java Edition 15w36d">
         <protocol>70</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w36d</link>
     </version>
     <version version="Java Edition 15w36c">
         <protocol>69</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w36c</link>
     </version>
     <version version="Java Edition 15w36b">
         <protocol>68</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w36b</link>
     </version>
     <version version="Java Edition 15w36a">
         <protocol>67</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w36a</link>
     </version>
     <version version="Java Edition 15w35e">
         <protocol>66</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w35e</link>
     </version>
     <version version="Java Edition 15w35d">
         <protocol>65</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w35d</link>
     </version>
     <version version="Java Edition 15w35c">
         <protocol>64</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w35c</link>
     </version>
     <version version="Java Edition 15w35b">
         <protocol>63</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w35b</link>
     </version>
     <version version="Java Edition 15w35a">
         <protocol>62</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w35a</link>
     </version>
     <version version="Java Edition 15w34d">
         <protocol>61</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w34d</link>
     </version>
     <version version="Java Edition 15w34c">
         <protocol>60</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w34c</link>
     </version>
     <version version="Java Edition 15w34b">
         <protocol>59</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w34b</link>
     </version>
     <version version="Java Edition 15w34a">
         <protocol>58</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w34a</link>
     </version>
     <version version="Java Edition 15w33c">
         <protocol>57</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w33c</link>
     </version>
     <version version="Java Edition 15w33b">
         <protocol>56</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w33b</link>
     </version>
     <version version="Java Edition 15w33a">
         <protocol>55</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w33a</link>
     </version>
     <version version="Java Edition 15w32c">
         <protocol>54</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w32c</link>
     </version>
     <version version="Java Edition 15w32b">
         <protocol>53</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w32b</link>
     </version>
     <version version="Java Edition 15w32a">
         <protocol>52</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w32a</link>
     </version>
     <version version="Java Edition 15w31c">
         <protocol>51</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w31c</link>
     </version>
     <version version="Java Edition 15w31b">
         <protocol>50</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w31b</link>
     </version>
     <version version="Java Edition 15w31a">
         <protocol>49</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_15w31a</link>
     </version>
     <version version="Java Edition 1.8.9">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.9</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.9</link>
     </version>
     <version version="Java Edition 1.8.8">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.8</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.8</link>
     </version>
     <version version="Java Edition 1.8.7">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.7</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.7</link>
     </version>
     <version version="Java Edition 1.8.6">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.6</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.6</link>
     </version>
     <version version="Java Edition 1.8.5">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.5</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.5</link>
     </version>
     <version version="Java Edition 1.8.4">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.4</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.4</link>
     </version>
     <version version="Java Edition 1.8.3">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.3</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.3</link>
     </version>
     <version version="Java Edition 1.8.2">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.2</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2</link>
     </version>
     <version version="Java Edition 1.8.2-pre7">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre7</link>
     </version>
     <version version="Java Edition 1.8.2-pre6">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre6</link>
     </version>
     <version version="Java Edition 1.8.2-pre5">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre5</link>
     </version>
     <version version="Java Edition 1.8.2-pre4">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre4</link>
     </version>
     <version version="Java Edition 1.8.2-pre3">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre3</link>
     </version>
     <version version="Java Edition 1.8.2-pre2">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre2</link>
     </version>
     <version version="Java Edition 1.8.2-pre1">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.2-pre1</link>
     </version>
     <version version="Java Edition 1.8.1">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8.1</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1</link>
     </version>
     <version version="Java Edition 1.8.1-pre5">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1-pre5</link>
     </version>
     <version version="Java Edition 1.8.1-pre4">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1-pre4</link>
     </version>
     <version version="Java Edition 1.8.1-pre3">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1-pre3</link>
     </version>
     <version version="Java Edition 1.8.1-pre2">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1-pre2</link>
     </version>
     <version version="Java Edition 1.8.1-pre1">
         <protocol>47</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8.1-pre1</link>
     </version>
     <version version="Java Edition 1.8">
         <protocol>47</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.8</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.8</link>
     </version>
     <version version="Java Edition 1.8-pre3">
         <protocol>46</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8-pre3</link>
     </version>
     <version version="Java Edition 1.8-pre2">
         <protocol>45</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8-pre2</link>
     </version>
     <version version="Java Edition 1.8-pre1">
         <protocol>44</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.8-pre1</link>
     </version>
     <version version="Java Edition 14w34d">
         <protocol>43</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w34d</link>
     </version>
     <version version="Java Edition 14w34c">
         <protocol>42</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w34c</link>
     </version>
     <version version="Java Edition 14w34b">
         <protocol>41</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w34b</link>
     </version>
     <version version="Java Edition 14w34a">
         <protocol>40</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w34a</link>
     </version>
     <version version="Java Edition 14w33c">
         <protocol>39</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w33c</link>
     </version>
     <version version="Java Edition 14w33b">
         <protocol>38</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w33b</link>
     </version>
     <version version="Java Edition 14w33a">
         <protocol>37</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w33a</link>
     </version>
     <version version="Java Edition 14w32d">
         <protocol>36</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w32d</link>
     </version>
     <version version="Java Edition 14w32c">
         <protocol>35</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w32c</link>
     </version>
     <version version="Java Edition 14w32b">
         <protocol>34</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w32b</link>
     </version>
     <version version="Java Edition 14w32a">
         <protocol>33</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w32a</link>
     </version>
     <version version="Java Edition 14w31a">
         <protocol>32</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w31a</link>
     </version>
     <version version="Java Edition 14w30c">
         <protocol>31</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w30c</link>
     </version>
     <version version="Java Edition 14w30b">
         <protocol>30</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w30b</link>
     </version>
     <version version="Java Edition 14w30a">
         <protocol>30</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w30a</link>
     </version>
     <version version="Java Edition 14w29b">
         <protocol>29</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w29b</link>
     </version>
     <version version="Java Edition 14w29a">
         <protocol>29</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w29a</link>
     </version>
     <version version="Java Edition 14w28b">
         <protocol>28</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w28b</link>
     </version>
     <version version="Java Edition 14w28a">
         <protocol>27</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w28a</link>
     </version>
     <version version="Java Edition 14w27b">
         <protocol>26</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w27b</link>
     </version>
     <version version="Java Edition 14w27a">
         <protocol>26</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w27a</link>
     </version>
     <version version="Java Edition 14w26c">
         <protocol>25</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w26c</link>
     </version>
     <version version="Java Edition 14w26b">
         <protocol>24</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w26b</link>
     </version>
     <version version="Java Edition 14w26a">
         <protocol>23</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w26a</link>
     </version>
     <version version="Java Edition 14w25b">
         <protocol>22</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w25b</link>
     </version>
     <version version="Java Edition 14w25a">
         <protocol>21</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w25a</link>
     </version>
     <version version="Java Edition 14w21b">
         <protocol>20</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w21b</link>
     </version>
     <version version="Java Edition 14w21a">
         <protocol>19</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w21a</link>
     </version>
     <version version="Java Edition 14w20b">
         <protocol>18</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w20b</link>
     </version>
     <version version="Java Edition 14w20a">
         <protocol>18</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w20a</link>
     </version>
     <version version="Java Edition 14w19a">
         <protocol>17</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w19a</link>
     </version>
     <version version="Java Edition 14w18b">
         <protocol>16</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w18b</link>
     </version>
     <version version="Java Edition 14w18a">
         <protocol>16</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w18a</link>
     </version>
     <version version="Java Edition 14w17a">
         <protocol>15</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w17a</link>
     </version>
     <version version="Java Edition 14w11b">
         <protocol>14</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w11b</link>
     </version>
     <version version="Java Edition 14w11a">
         <protocol>14</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w11a</link>
     </version>
     <version version="Java Edition 14w10c">
         <protocol>13</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w10c</link>
     </version>
     <version version="Java Edition 14w10b">
         <protocol>13</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w10b</link>
     </version>
     <version version="Java Edition 14w10a">
         <protocol>13</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w10a</link>
     </version>
     <version version="Java Edition 14w08a">
         <protocol>12</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w08a</link>
     </version>
     <version version="Java Edition 14w07a">
         <protocol>11</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w07a</link>
     </version>
     <version version="Java Edition 14w06b">
         <protocol>10</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w06b</link>
     </version>
     <version version="Java Edition 14w06a">
         <protocol>10</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w06a</link>
     </version>
     <version version="Java Edition 14w05b">
         <protocol>9</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w05b</link>
     </version>
     <version version="Java Edition 14w05a">
         <protocol>9</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w05a</link>
     </version>
     <version version="Java Edition 14w04b">
         <protocol>8</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w04b</link>
     </version>
     <version version="Java Edition 14w04a">
         <protocol>7</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w04a</link>
     </version>
     <version version="Java Edition 14w03b">
         <protocol>6</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w03b</link>
     </version>
     <version version="Java Edition 14w03a">
         <protocol>6</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w03a</link>
     </version>
     <version version="Java Edition 14w02c">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w02c</link>
     </version>
     <version version="Java Edition 14w02b">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w02b</link>
     </version>
     <version version="Java Edition 14w02a">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_14w02a</link>
     </version>
     <version version="Java Edition 1.7.10">
         <protocol>5</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.10</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.10</link>
     </version>
     <version version="Java Edition 1.7.10-pre4">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.10-pre4</link>
     </version>
     <version version="Java Edition 1.7.10-pre3">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.10-pre3</link>
     </version>
     <version version="Java Edition 1.7.10-pre2">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.10-pre2</link>
     </version>
     <version version="Java Edition 1.7.10-pre1">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.10-pre1</link>
     </version>
     <version version="Java Edition 1.7.9">
         <protocol>5</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.9</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.9</link>
     </version>
     <version version="Java Edition 1.7.8">
         <protocol>5</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.8</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.8</link>
     </version>
     <version version="Java Edition 1.7.7">
         <protocol>5</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.7</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.7</link>
     </version>
     <version version="Java Edition 1.7.6">
         <protocol>5</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.6</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.6</link>
     </version>
     <version version="Java Edition 1.7.6-pre2">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.6-pre2</link>
     </version>
     <version version="Java Edition 1.7.6-pre1">
         <protocol>5</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.6-pre1</link>
     </version>
     <version version="Java Edition 1.7.5">
         <protocol>4</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.5</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.5</link>
     </version>
     <version version="Java Edition 1.7.4">
         <protocol>4</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.4</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.4</link>
     </version>
     <version version="Java Edition 1.7.3">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.3</link>
     </version>
     <version version="Java Edition 13w49a">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w49a</link>
     </version>
     <version version="Java Edition 13w48b">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w48b</link>
     </version>
     <version version="Java Edition 13w48a">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w48a</link>
     </version>
     <version version="Java Edition 13w47e">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w47e</link>
     </version>
     <version version="Java Edition 13w47d">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w47d</link>
     </version>
     <version version="Java Edition 13w47c">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w47c</link>
     </version>
     <version version="Java Edition 13w47b">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w47b</link>
     </version>
     <version version="Java Edition 13w47a">
         <protocol>4</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w47a</link>
     </version>
     <version version="Java Edition 1.7.2">
         <protocol>4</protocol>
         <data_version />
-        <link>https://minecraft.fandom.com/wiki/Java_Edition_1.7.2</link>
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.2</link>
     </version>
     <version version="Java Edition 1.7.1">
         <protocol>3</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7.1</link>
     </version>
     <version version="Java Edition 1.7">
         <protocol>3</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_1.7</link>
     </version>
     <version version="Java Edition 13w43a">
         <protocol>2</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w43a</link>
     </version>
     <version version="Java Edition 13w42b">
         <protocol>1</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w42b</link>
     </version>
     <version version="Java Edition 13w42a">
         <protocol>1</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w42a</link>
     </version>
     <version version="Java Edition 13w41b">
         <protocol>0</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w41b</link>
     </version>
     <version version="Java Edition 13w41a">
         <protocol>0</protocol>
         <data_version />
-        <link />
+        <link>https://minecraft.wiki/w/Java_Edition_13w41a</link>
     </version>
 </root>
