@@ -23,11 +23,12 @@ async def load_mc_version():
         if not table:
             raise RuntimeError("テーブルが見つかりませんでした。")
 
-        tbody = table.find("tbody")
-        trs = tbody.find_all("tr")
-
         root = ET.Element("root")
         final_protocol = ""
+        rowspan_protocol = None  # rowspan対応用
+
+        tbody = table.find("tbody")
+        trs = tbody.find_all("tr")
 
         for tr in trs:
             tds = tr.find_all("td")
@@ -37,12 +38,20 @@ async def load_mc_version():
             version = tds[0].text.strip()
             link = tds[0].find("a")
 
+            # rowspan対応
+            if len(tds) > 1:
+                protocol = tds[1].text.strip()
+                if tds[1].has_attr("rowspan"):
+                    rowspan_protocol = protocol
+            else:
+                protocol = rowspan_protocol  # 前回のrowspan値を再利用
+
             data_version = ""
+            link_url = ""
             if link:
-                link_url = urljoin(url, link.get("href"))
-                
-                print(link_url)
-                
+                href = link.get("href")
+                link_url = urljoin(url, href)
+
                 link_content = await fetch(session, link_url)
                 link_soup = BeautifulSoup(link_content, "html.parser")
 
@@ -51,9 +60,13 @@ async def load_mc_version():
                     data_version_cell = link_table.find("th", string="Data version")
                     if data_version_cell:
                         data_version = data_version_cell.find_next_sibling("td").text.strip()
-
-            protocol = tds[1].text.strip() if len(tds) > 1 else final_protocol
-            final_protocol = protocol
+                else:
+                    # 代替方法
+                    link_h3s = link_soup.find_all("h3", class_="pi-data-label pi-secondary-font")
+                    for h3 in link_h3s:
+                        if h3.text == "Data version":
+                            data_version = h3.find_next_sibling("div").text.strip()
+                            break
 
             # XMLノードを作成
             version_child = ET.SubElement(root, "version")
@@ -65,13 +78,7 @@ async def load_mc_version():
             data_version_child = ET.SubElement(version_child, "data_version")
             data_version_child.text = data_version
 
-        # XMLファイルに書き込む
-        tree = ET.ElementTree(root)
-        ET.indent(tree, space="    ")
-        tree.write("mc_version.xml", encoding="utf-8", xml_declaration=True)
+            link_child = ET.SubElement(version_child, "link")
+            link_child.text = link_url
 
-async def main():
-    await load_mc_version()
-
-if __name__ == "__main__":
-    asyncio.run(main())
+        # XMLファイルに書き

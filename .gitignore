@@ -4,7 +4,7 @@ test.py
 buttons/*
 test.json
 test.xml
-test.html
+test*.html
 
 # 以下デフォルト
 # Byte-compiled / optimized / DLL files
